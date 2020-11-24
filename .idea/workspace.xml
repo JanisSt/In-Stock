@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34a4d716-b897-4966-b878-25726bf5fef6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/laravel/ui" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kcOFqFYnfDrH8c6ksXxsXKwLhi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/database/migrations" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tests/Unit" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/database/migrations" />
+      <recent name="$PROJECT_DIR$/tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.tests">
+    <configuration name="BestBuyTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Clients\BestBuyTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Clients/BestBuyTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ProductTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\ProductTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Unit/ProductTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StockTest.it_throws_an_exception_if_a_client_not_found_when_tracking" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Unit\StockTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Unit/StockTest.php" method="it_throws_an_exception_if_a_client_not_found_when_tracking" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrackCommandTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="Tests\Feature\TrackCommandTest" configuration_file="$PROJECT_DIR$/phpunit.xml" file="$PROJECT_DIR$/tests/Feature/TrackCommandTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner configuration_file="$PROJECT_DIR$/phpunit.xml" directory="$PROJECT_DIR$/tests" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.tests" />
+        <item itemvalue="PHPUnit.TrackCommandTest" />
+        <item itemvalue="PHPUnit.BestBuyTest" />
+        <item itemvalue="PHPUnit.StockTest.it_throws_an_exception_if_a_client_not_found_when_tracking" />
+        <item itemvalue="PHPUnit.ProductTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34a4d716-b897-4966-b878-25726bf5fef6" name="Default Changelist" comment="" />
+      <created>1605996312460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605996312460</updated>
+      <workItem from="1605996313595" duration="2918000" />
+      <workItem from="1606040825654" duration="598000" />
+      <workItem from="1606045133833" duration="5686000" />
+      <workItem from="1606121113765" duration="17711000" />
+      <workItem from="1606167253020" duration="11802000" />
+      <workItem from="1606204811666" duration="1744000" />
+      <workItem from="1606206729557" duration="9169000" />
+      <workItem from="1606224139272" duration="9736000" />
+      <workItem from="1606238601917" duration="2707000" />
+      <workItem from="1606245982710" duration="7900000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="575" y="217" width="824" height="691" key="#CLI_Interpreters" timestamp="1606231933073">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="575" y="217" width="824" height="691" key="#CLI_Interpreters/72.27.1848.1053@72.27.1848.1053" timestamp="1606231933073" />
+    <state x="642" y="180" width="700" height="759" key="#PHP" timestamp="1606231933819">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="642" y="180" width="700" height="759" key="#PHP/72.27.1848.1053@72.27.1848.1053" timestamp="1606231933819" />
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606206898967">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="591" y="215" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606206898967" />
+    <state x="172" y="127" width="1648" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1606213659507">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="1648" height="853" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606213659507" />
+    <state x="785" y="234" width="412" height="645" key="#com.intellij.ide.util.MemberChooser" timestamp="1606249569157">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="785" y="234" width="412" height="645" key="#com.intellij.ide.util.MemberChooser/72.27.1848.1053@72.27.1848.1053" timestamp="1606249569157" />
+    <state x="551" y="27" width="880" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606214822190">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="551" y="27" width="880" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606214822190" />
+    <state x="729" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1606247294460">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="729" y="311" width="524" height="491" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606247294460" />
+    <state x="784" y="331" width="414" height="452" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0" timestamp="1606252884480">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="784" y="331" width="414" height="452" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method0/72.27.1848.1053@72.27.1848.1053" timestamp="1606252884480" />
+    <state x="784" y="259" width="414" height="595" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1" timestamp="1606171051308">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="784" y="259" width="414" height="595" key="#com.jetbrains.php.refactoring.extractMethod.PhpExtractMethodDialog#method1/72.27.1848.1053@72.27.1848.1053" timestamp="1606171051308" />
+    <state x="696" y="395" key="#com.jetbrains.php.refactoring.move.member.instance.PhpMoveInstanceMethodDialog#" timestamp="1606249919688">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="696" y="395" key="#com.jetbrains.php.refactoring.move.member.instance.PhpMoveInstanceMethodDialog#/72.27.1848.1053@72.27.1848.1053" timestamp="1606249919688" />
+    <state x="769" y="398" width="444" height="318" key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1" timestamp="1606239375914">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="769" y="398" width="444" height="318" key="#com.jetbrains.php.refactoring.pullPush.pullUp.PhpPullUpDialog#1/72.27.1848.1053@72.27.1848.1053" timestamp="1606239375914" />
+    <state x="665" y="390" width="523" height="288" key="ComposerInitDialogKey" timestamp="1606038637006">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="665" y="390" width="523" height="288" key="ComposerInitDialogKey/72.27.1848.1053@72.27.1848.1053" timestamp="1606038637006" />
+    <state x="709" y="278" width="424" height="520" key="FileChooserDialogImpl" timestamp="1606204851020">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="709" y="278" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1606204851020" />
+    <state width="1802" height="434" key="GridCell.Tab.0.bottom" timestamp="1606253965990">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="434" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1606253965990" />
+    <state width="1802" height="434" key="GridCell.Tab.0.center" timestamp="1606253965986">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="434" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1606253965986" />
+    <state width="1802" height="434" key="GridCell.Tab.0.left" timestamp="1606253965985">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="434" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1606253965985" />
+    <state width="1802" height="434" key="GridCell.Tab.0.right" timestamp="1606253965988">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state width="1802" height="434" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1606253965988" />
+    <state x="758" y="273" width="465" height="568" key="NewPhpClassDialog" timestamp="1606164756334">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="758" y="273" width="465" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606164756334" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1606170133391">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606170133391" />
+    <state x="900" y="112" width="382" height="927" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1606206939969">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="900" y="112" width="382" height="927" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606206939969" />
+    <state x="738" y="294" width="648" height="526" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1606247883748">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="738" y="294" width="648" height="526" key="com.jetbrains.php.test.PhpNewTestDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1606247883748" />
+    <state x="159" y="151" width="1648" height="853" key="dock-window-1" timestamp="1606226771570">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="159" y="151" width="1648" height="853" key="dock-window-1/72.27.1848.1053@72.27.1848.1053" timestamp="1606226771570" />
+    <state x="172" y="127" width="1648" height="853" key="dock-window-2" timestamp="1606226771571">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="172" y="127" width="1648" height="853" key="dock-window-2/72.27.1848.1053@72.27.1848.1053" timestamp="1606226771571" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1606253825251">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.1848.1053@72.27.1848.1053" timestamp="1606253825251" />
+  </component>
+</project>
